@@ -31,3 +31,9 @@ The app was built over the course of a week with a group of three web dev studen
 ## Design Technologies Used:
 - Balsamic
 - Photoshop
+
+
+## Wireframes
+![Initial wireframe for landing page](./public/images/wireframes2.jpg "Initial wireframe for landing page")
+
+![Initial wireframes for profile and trip-planning page](./public/images/wireframes1.jpg "Initial wireframes for profile and trip-planning page")
