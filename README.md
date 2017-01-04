@@ -34,7 +34,7 @@ The app was built over the course of a week with a group of three web dev studen
 
 
 ## Initial Wireframes
-![Initial wireframe for landing page](./public/images/wireframe_1.jpg "Initial wireframe for landing page")
+![Initial wireframe for landing page](./public/images/wireframe_0.jpg "Initial wireframe for landing page")
 
 ![Initial wireframes for profile and trip-planning page](./public/images/wireframe_2.jpg "Initial wireframes for profile and trip-planning page")
 
