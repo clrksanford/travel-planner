@@ -33,7 +33,12 @@ The app was built over the course of a week with a group of three web dev studen
 - Photoshop
 
 
-## Wireframes
+## Initial Wireframes
 ![Initial wireframe for landing page](./public/images/wireframe_1.jpg "Initial wireframe for landing page")
 
 ![Initial wireframes for profile and trip-planning page](./public/images/wireframe_2.jpg "Initial wireframes for profile and trip-planning page")
+
+
+## UX Presentation
+
+Click [here](https://docs.google.com/presentation/d/1bBvZ8I4EWvXMrD3WCKbjOsFLi1NUKut9QpK73XG8yhI/edit?usp=sharing) to see the final mock-ups, as well as a more in-depth presentation of the work the UX designers did.
