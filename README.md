@@ -1,5 +1,8 @@
 # Tripfolio
 
+## Background:
+Tripfolio was built as a group project at General Assembly's coding bootcamp in Austin during November 2016.
+
 ## Tripfolio Team:
 - Project Lead: Clark Sanford
 - Developers: Clark Sanford, Kelvan Ince, Joseph Callaway
